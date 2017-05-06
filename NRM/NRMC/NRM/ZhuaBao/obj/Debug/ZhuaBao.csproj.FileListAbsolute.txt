@@ -1,0 +1,5 @@
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\ZhuaBao\bin\Debug\ZhuaBao.exe
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\ZhuaBao\bin\Debug\ZhuaBao.pdb
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\ZhuaBao\obj\Debug\ZhuaBao.csprojResolveAssemblyReference.cache
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\ZhuaBao\obj\Debug\ZhuaBao.exe
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\ZhuaBao\obj\Debug\ZhuaBao.pdb

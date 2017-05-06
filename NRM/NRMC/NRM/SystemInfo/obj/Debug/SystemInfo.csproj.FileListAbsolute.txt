@@ -1,0 +1,9 @@
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\SystemInfo\bin\Debug\SystemInfo.exe
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\SystemInfo\bin\Debug\SystemInfo.pdb
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\SystemInfo\bin\Debug\PacketDotNet.dll
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\SystemInfo\bin\Debug\SharpPcap.dll
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\SystemInfo\bin\Debug\PacketDotNet.xml
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\SystemInfo\bin\Debug\SharpPcap.xml
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\SystemInfo\obj\Debug\SystemInfo.csprojResolveAssemblyReference.cache
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\SystemInfo\obj\Debug\SystemInfo.exe
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\SystemInfo\obj\Debug\SystemInfo.pdb

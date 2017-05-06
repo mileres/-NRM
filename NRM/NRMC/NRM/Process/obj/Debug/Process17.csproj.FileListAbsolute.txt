@@ -1,0 +1,5 @@
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Process\bin\Debug\Process.exe
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Process\bin\Debug\Process.pdb
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Process\obj\Debug\Process.exe
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Process\obj\Debug\Process.pdb
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Process\obj\Debug\Process17.csprojResolveAssemblyReference.cache

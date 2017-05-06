@@ -1,0 +1,9 @@
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test2\bin\Debug\Test2.exe.config
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test2\bin\Debug\Test2.exe
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test2\bin\Debug\Test2.pdb
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test2\obj\Debug\Test2.Form1.resources
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test2\obj\Debug\Test2.Properties.Resources.resources
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test2\obj\Debug\Test2.csproj.GenerateResource.Cache
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test2\obj\Debug\Test2.exe
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test2\obj\Debug\Test2.pdb

@@ -1,0 +1,15 @@
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Login\bin\Debug\Login.exe
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Login\bin\Debug\Login.pdb
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Login\obj\Debug\Login.Form1.resources
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Login\obj\Debug\Login.Register.resources
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Login\obj\Debug\Login.exe
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Login\obj\Debug\Login.pdb
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Login\bin\Debug\Login.exe.config
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Login\obj\Debug\Login.ResultAll.resources
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Login\bin\Debug\PacketDotNet.dll
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Login\bin\Debug\SharpPcap.dll
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Login\bin\Debug\PacketDotNet.xml
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Login\bin\Debug\SharpPcap.xml

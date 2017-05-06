@@ -1,0 +1,21 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\Application Monitor\Application Monitor\bin\Debug\Application Monitor.exe.config
+C:\Users\Administrator\documents\visual studio 2010\Projects\Application Monitor\Application Monitor\bin\Debug\Application Monitor.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\Application Monitor\Application Monitor\bin\Debug\Application Monitor.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\Application Monitor\Application Monitor\obj\x86\Debug\Application_Monitor.Monitor.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\Application Monitor\Application Monitor\obj\x86\Debug\Application_Monitor.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\Application Monitor\Application Monitor\obj\x86\Debug\Application Monitor.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\Application Monitor\Application Monitor\obj\x86\Debug\Application Monitor.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\Application Monitor\Application Monitor\obj\x86\Debug\Application Monitor.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\Application Monitor\Application Monitor\obj\x86\Debug\Application Monitor.exe.licenses
+C:\Users\Administrator\documents\visual studio 2010\Projects\Application Monitor\Application Monitor\obj\x86\Debug\Application Monitor.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Application Monitor\Application Monitor\bin\Debug\PacketDotNet.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Application Monitor\Application Monitor\bin\Debug\SharpPcap.dll
+C:\Users\Administrator\documents\visual studio 2010\Projects\Application Monitor\Application Monitor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mileres\Desktop\NRM\Application Monitor\Application Monitor\bin\Debug\Application Monitor.exe.config
+C:\Users\mileres\Desktop\NRM\Application Monitor\Application Monitor\obj\x86\Debug\Application Monitor.exe
+C:\Users\mileres\Desktop\NRM\Application Monitor\Application Monitor\obj\x86\Debug\Application Monitor.pdb
+C:\Users\mileres\Desktop\NRM\Application Monitor\Application Monitor\obj\x86\Debug\Application Monitor.csprojResolveAssemblyReference.cache
+C:\Users\mileres\Desktop\NRM\Application Monitor\Application Monitor\obj\x86\Debug\Application_Monitor.Monitor.resources
+C:\Users\mileres\Desktop\NRM\Application Monitor\Application Monitor\obj\x86\Debug\Application_Monitor.Properties.Resources.resources
+C:\Users\mileres\Desktop\NRM\Application Monitor\Application Monitor\obj\x86\Debug\Application Monitor.csproj.GenerateResource.Cache
+C:\Users\mileres\Desktop\NRM\Application Monitor\Application Monitor\obj\x86\Debug\Application Monitor.exe.licenses

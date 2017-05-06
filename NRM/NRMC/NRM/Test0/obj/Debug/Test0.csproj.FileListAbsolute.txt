@@ -1,0 +1,6 @@
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test0\bin\Debug\Test0.exe.config
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test0\bin\Debug\Test0.exe
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test0\bin\Debug\Test0.pdb
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test0\obj\Debug\Test0.csprojResolveAssemblyReference.cache
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test0\obj\Debug\Test0.exe
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test0\obj\Debug\Test0.pdb

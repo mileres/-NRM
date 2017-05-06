@@ -1,0 +1,8 @@
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test3\bin\Debug\Test3.exe.config
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test3\bin\Debug\Test3.exe
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test3\bin\Debug\Test3.pdb
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test3\obj\Debug\Test3.Form1.resources
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test3\obj\Debug\Test3.Properties.Resources.resources
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test3\obj\Debug\Test3.csproj.GenerateResource.Cache
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test3\obj\Debug\Test3.exe
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test3\obj\Debug\Test3.pdb

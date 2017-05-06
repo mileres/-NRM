@@ -1,0 +1,5 @@
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test1\bin\Debug\Test1.exe.config
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test1\bin\Debug\Test1.exe
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test1\bin\Debug\Test1.pdb
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test1\obj\Debug\Test1.exe
+C:\Users\mileres\Desktop\NRM\NRMC\NRM\Test1\obj\Debug\Test1.pdb

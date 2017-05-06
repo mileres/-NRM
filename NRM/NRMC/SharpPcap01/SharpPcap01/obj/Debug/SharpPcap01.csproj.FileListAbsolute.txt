@@ -1,0 +1,9 @@
+C:\Users\mileres\Desktop\NRM\NRMC\SharpPcap01\SharpPcap01\obj\Debug\SharpPcap01.csprojResolveAssemblyReference.cache
+C:\Users\mileres\Desktop\NRM\NRMC\SharpPcap01\SharpPcap01\bin\Debug\SharpPcap01.exe
+C:\Users\mileres\Desktop\NRM\NRMC\SharpPcap01\SharpPcap01\bin\Debug\SharpPcap01.pdb
+C:\Users\mileres\Desktop\NRM\NRMC\SharpPcap01\SharpPcap01\bin\Debug\PacketDotNet.dll
+C:\Users\mileres\Desktop\NRM\NRMC\SharpPcap01\SharpPcap01\bin\Debug\SharpPcap.dll
+C:\Users\mileres\Desktop\NRM\NRMC\SharpPcap01\SharpPcap01\bin\Debug\PacketDotNet.xml
+C:\Users\mileres\Desktop\NRM\NRMC\SharpPcap01\SharpPcap01\bin\Debug\SharpPcap.xml
+C:\Users\mileres\Desktop\NRM\NRMC\SharpPcap01\SharpPcap01\obj\Debug\SharpPcap01.exe
+C:\Users\mileres\Desktop\NRM\NRMC\SharpPcap01\SharpPcap01\obj\Debug\SharpPcap01.pdb

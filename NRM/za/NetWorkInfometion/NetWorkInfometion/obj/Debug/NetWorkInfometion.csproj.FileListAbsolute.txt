@@ -1,0 +1,9 @@
+c:\users\mileres\documents\visual studio 2015\Projects\NetWorkInfometion\NetWorkInfometion\bin\Debug\NetWorkInfometion.exe.config
+c:\users\mileres\documents\visual studio 2015\Projects\NetWorkInfometion\NetWorkInfometion\bin\Debug\NetWorkInfometion.exe
+c:\users\mileres\documents\visual studio 2015\Projects\NetWorkInfometion\NetWorkInfometion\bin\Debug\NetWorkInfometion.pdb
+c:\users\mileres\documents\visual studio 2015\Projects\NetWorkInfometion\NetWorkInfometion\obj\Debug\NetWorkInfometion.csprojResolveAssemblyReference.cache
+c:\users\mileres\documents\visual studio 2015\Projects\NetWorkInfometion\NetWorkInfometion\obj\Debug\NetWorkInfometion.exe
+c:\users\mileres\documents\visual studio 2015\Projects\NetWorkInfometion\NetWorkInfometion\obj\Debug\NetWorkInfometion.pdb
+C:\Users\mileres\Desktop\NRM\NetWorkInfometion\NetWorkInfometion\bin\Debug\NetWorkInfometion.exe.config
+C:\Users\mileres\Desktop\NRM\NetWorkInfometion\NetWorkInfometion\obj\Debug\NetWorkInfometion.exe
+C:\Users\mileres\Desktop\NRM\NetWorkInfometion\NetWorkInfometion\obj\Debug\NetWorkInfometion.pdb
